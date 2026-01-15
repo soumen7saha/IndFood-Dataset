@@ -1,2 +1,2 @@
-# IndFood-Dataset
-Image Dataset of various foods from the region of the Indian Subcontinent
+## Dataset Description
+The dataset consists of around 135,335 images and 131 food items (classes). The images of food items belong to different food categories: sweet, curry, snacks, curry, bread, cereal, beverage, pizza and kebab. The whole dataset is constructed from the two resources below and split into train & val in an 85%-15% proportion. The test images of each of the classes are taken from the web. It can be accessed from the gdrive link below.
